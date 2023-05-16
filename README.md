@@ -1,4 +1,6 @@
-# Hi there 👋:
+<div align="center">
+   <h1>Hi there, I'm <a>Giovanni</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+
 
 <div align="center">
 <img hight="300" width="400" alt="GIF" align="center" style = "padding-bottom: 30px" src="assets/gojo-hello.gif">
