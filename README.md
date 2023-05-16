@@ -16,6 +16,8 @@
 [ur]: https://rochester.edu
 [af]: http://www.applefoundationprogram.unisa.it/
 
+<br>
+
 <h1> 🌐 Socials: </h1>
 
 <p >If you want to know me or only talk about algorithms, AR/VR, jobs, anime, soccer or whatelse, follow me on my socials! </p>
@@ -25,6 +27,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gionny.s.cavaliere/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/giovannicavaliere3/?hl=it) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/giovanni-cavaliere-20b486184) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Jotaro97) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Jotaro97)
 
 </div>
+
+<br>
 
 <div style = "padding-bottom: 30px">
 
