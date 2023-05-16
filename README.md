@@ -1,26 +1,3 @@
-# Hi, I'm Giovanni!
-
-Computer engineer, Full Stack Developer working for <a href="">Finanza.tech</a>
-
-## Life
-
-:computer: [**University of Salerno**][ur] Computer Engineering Degree
-:apple: [**Apple Foundation Program**][af] Special course in collaboration with Apple at the University of Salerno
-:muscle: [**Full Stack Developer**][gh] Started working before the end of thu studies
-
-[ur]: https://rochester.edu
-[af]: http://www.applefoundationprogram.unisa.it/
-[gh]: https://github.com/giovannicavaliere3
-
-_Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
-:skateboard: skateboarding, :computer_mouse: interactive experiences._
-
-<p align="center">
-    <b>Looking for a software engineering intern?
-        <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a>
-    </b>
-</p>
-
 # Konnichiwa 👋:
 
 <div align="center">
@@ -29,6 +6,15 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 <p style="padding-bottom: 30px">Hi everyone! I'm Giovanni Cavaliere and I'm a Full Stack Developer for Finanza.tech. I love Computer Science and IT in general. Here you can find some of my jobs, and in future something of innovative 4 sure!
 </p>
 </div>
+
+## Studies
+
+:computer: [**University of Salerno**][ur] Computer Engineering Degree
+
+:apple: [**Apple Foundation Program**][af] Special course in collaboration with Apple at the University of Salerno
+
+[ur]: https://rochester.edu
+[af]: http://www.applefoundationprogram.unisa.it/
 
 ## 🌐 Socials:
 
