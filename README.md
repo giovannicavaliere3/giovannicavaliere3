@@ -7,7 +7,7 @@
 <p style="padding-top: 30px">Hi everyone! I'm Giovanni Cavaliere and I'm a Full Stack Developer for Finanza.tech. I love Computer Science and IT in general. Here you can find some of my jobs, and in future something of innovative 4 sure!
 </p>
 
-## Studies
+<h1>Studies</h1>
 
 :computer: [**University of Salerno**][ur] Computer Engineering Degree
 
@@ -16,7 +16,7 @@
 [ur]: https://rochester.edu
 [af]: http://www.applefoundationprogram.unisa.it/
 
-## 🌐 Socials:
+<h1> 🌐 Socials: </h1>
 
 <p >If you want to know me or only talk about algorithms, AR/VR, jobs, anime, soccer or whatelse, follow me on my socials! </p>
 <div align="center">
