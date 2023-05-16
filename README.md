@@ -2,7 +2,7 @@
    <h1>Hi there, I'm <a href ="https://github.com/giovannicavaliere3">Giovanni</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <div align="center">
-<img hight="300" width="400" alt="GIF" align="center" style = "padding-bottom: 30px" src="assets/gojo-hello.gif">
+<img hight="300" width="400" alt="GIF" align="center" style = "padding-bottom: 30px !important" src="assets/gojo-hello.gif">
 </div>
 <p style="padding-bo: 30px">Hi everyone! I'm Giovanni Cavaliere and I'm a Full Stack Developer for Finanza.tech. I love Computer Science and IT in general. Here you can find some of my jobs, and in future something of innovative 4 sure!
 </p>
@@ -22,7 +22,7 @@
 
 <p >If you want to know me or only talk about algorithms, AR/VR, jobs, anime, soccer or whatelse, follow me on my socials! </p>
 <div align="center">
-<img hight="300" width="400" alt="GIF" align="center" style = "padding-bottom: 30px" src="assets/gojo-foto.gif">
+<img hight="300" width="400" alt="GIF" align="center" style = "padding-bottom: 30px !important" src="assets/gojo-foto.gif">
 
 <div hight="300" width="400" >
 
@@ -34,7 +34,7 @@
 
 <br>
 
-<div style = "padding-bottom: 30px">
+<div style = "padding-bottom: 30px !important">
 
 # 💻 Front-End Stack:
 
@@ -43,7 +43,7 @@
 
 </div>
 
-<div style = "padding-bottom: 30px">
+<div style = "padding-bottom: 30px !important">
 
 # 💻 Back-End Stack:
 
@@ -51,7 +51,7 @@
 
 </div>
 
-<div style = "padding-bottom: 30px">
+<div style = "padding-bottom: 30px !important">
 
 # 💻 Other knowledge:
 
