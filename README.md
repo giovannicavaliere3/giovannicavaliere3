@@ -1,11 +1,10 @@
 <div align="center">
-   <h1>Hi there, I'm <a>Giovanni</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-
+   <h1>Hi there, I'm <a href ="https://github.com/giovannicavaliere3">Giovanni</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <div align="center">
 <img hight="300" width="400" alt="GIF" align="center" style = "padding-bottom: 30px" src="assets/gojo-hello.gif">
 </div>
-<p style="padding-bottom: 30px; padding-top: 30px">Hi everyone! I'm Giovanni Cavaliere and I'm a Full Stack Developer for Finanza.tech. I love Computer Science and IT in general. Here you can find some of my jobs, and in future something of innovative 4 sure!
+<p style="padding-top: 30px">Hi everyone! I'm Giovanni Cavaliere and I'm a Full Stack Developer for Finanza.tech. I love Computer Science and IT in general. Here you can find some of my jobs, and in future something of innovative 4 sure!
 </p>
 
 ## Studies
@@ -51,4 +50,5 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
+</div>
 </div>
