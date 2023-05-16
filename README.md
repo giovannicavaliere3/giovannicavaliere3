@@ -20,6 +20,7 @@
 [ur]: https://rochester.edu
 [af]: http://www.applefoundationprogram.unisa.it/
 
+<br>
 ## 🌐 Socials:
 
 <p >If you want to know me or only talk about algorithms, AR/VR, jobs, anime, soccer or whatelse, follow me on my socials! </p>
