@@ -4,7 +4,7 @@
 <div align="center">
 <img hight="300" width="400" alt="GIF" align="center" style = "padding-bottom: 30px" src="assets/gojo-hello.gif">
 </div>
-<p style="padding-top: 30px">Hi everyone! I'm Giovanni Cavaliere and I'm a Full Stack Developer for Finanza.tech. I love Computer Science and IT in general. Here you can find some of my jobs, and in future something of innovative 4 sure!
+<p style="padding-bo: 30px">Hi everyone! I'm Giovanni Cavaliere and I'm a Full Stack Developer for Finanza.tech. I love Computer Science and IT in general. Here you can find some of my jobs, and in future something of innovative 4 sure!
 </p>
 
 <h1>Studies</h1>
@@ -24,7 +24,11 @@
 <div align="center">
 <img hight="300" width="400" alt="GIF" align="center" style = "padding-bottom: 30px" src="assets/gojo-foto.gif">
 
+<div hight="300" width="400" >
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gionny.s.cavaliere/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/giovannicavaliere3/?hl=it) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/giovanni-cavaliere-20b486184) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Jotaro97) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Jotaro97)
+
+</div>
 
 </div>
 
