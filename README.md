@@ -9,9 +9,13 @@
 
 ## Studies
 
+<p style="padding-bottom: 30px; padding-top: 30px">
+
 :computer: [**University of Salerno**][ur] Computer Engineering Degree
 
 :apple: [**Apple Foundation Program**][af] Special course in collaboration with Apple at the University of Salerno
+
+</p>
 
 [ur]: https://rochester.edu
 [af]: http://www.applefoundationprogram.unisa.it/
