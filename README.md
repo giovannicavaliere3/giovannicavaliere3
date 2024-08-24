@@ -6,7 +6,7 @@
 </div>
    <br>
    
-   <p  style ="display:flex; justify-content: center; margin-top: 30px !important;" >Hi everyone! I'm Giovanni Cavaliere and I'm a Full Stack Developer for Finanza.tech. I love Computer Science and IT in general. Here you can find some of my projects and jobs, and in future something of innovative 4 sure!
+   <p  style ="display:flex; justify-content: center; margin-top: 30px !important;" >Hi everyone! I'm Giovanni Cavaliere and I'm a Software Developer for Galdieri Rent. I love Computer Science and IT in general. Here you can find some of my projects and jobs, and in future something of innovative 4 sure!
 </p>
 
 <h1> :books: Studies: </h1>
